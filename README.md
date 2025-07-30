@@ -14,7 +14,9 @@
 ### Imagens
 
 #### BitDogLab
+[/demo/bitdoglab.jpeg](/demo/bitdoglab.jpeg)
 ![](/demo/bitdoglab.jpeg)
 
 #### MQTTX
+[/demo/mqttx.png](/demo/mqttx.png)
 ![](/demo/mqttx.png)
