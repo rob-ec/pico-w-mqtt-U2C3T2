@@ -39,8 +39,8 @@ add_compile_options(-Wall
 
 if (PICO_CYW43_SUPPORTED) # set by BOARD=pico-w
     # Altere com as credenciais da sua rede Wi-Fi
-    set(WIFI_SSID "_('-')_" CACHE INTERNAL "WiFi SSID")
-    set(WIFI_PASSWORD "Cola.303@" CACHE INTERNAL "WiFi password")
+    set(WIFI_SSID "WIFI" CACHE INTERNAL "WiFi SSID")
+    set(WIFI_PASSWORD "SENHA" CACHE INTERNAL "WiFi password")
     # Altere com o IP do seu servidor MQTT/TCP
     set(TEST_TCP_SERVER_IP "192.168.0.220" CACHE INTERNAL "MQTT/TCP Server IP")
 
